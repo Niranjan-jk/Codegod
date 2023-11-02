@@ -1,7 +1,7 @@
 Code God - ChatGPT Powered Q&A Web Application
 Welcome to Code God, a web application that uses OpenAI's ChatGPT to answer your coding questions. This README will guide you through the installation and setup process.
 
-Prerequisites
+### Prerequisites
 Before you get started, make sure you have the following prerequisites installed on your system:
 
 Python 3.x: Download Python
@@ -47,7 +47,7 @@ This will start the server on your local machine.
 
 By default, the server will run on http://127.0.0.1:5000/. You can access the Code God web application by opening your web browser and navigating to http://127.0.0.1:5000/.
 
-#How to Use
+### How to Use
 
 Visit the Code God web application in your browser at http://127.0.0.1:5000/.
 
@@ -59,8 +59,8 @@ The answer will be displayed on the right side of the screen.
 
 If you encounter any issues or errors, the application will display error messages to help you diagnose and resolve the problem.
 
-#Deploying to Production
+### Deploying to Production
 If you want to deploy this application to a production server, consider using a web server like Nginx or Apache in combination with a production-ready web application server like Gunicorn.
 
-#Security Note
+### Security Note
 Do not share your OpenAI API key or sensitive information in your public repository. Always keep your API keys and secret information secure.
