@@ -37,7 +37,7 @@ OPENAI_API_KEY=your-api-key-here
 Replace your-api-key-here with your actual OpenAI API key.
 ```
 
-#Starting the Local Server
+### Starting the Local Server
 Run the Flask application using the following command:
 
 ```bash
