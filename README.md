@@ -26,16 +26,16 @@ Install project dependencies:
 
 ```bash
 pip install -r requirements.txt
-API Key Configuration
-Create a .env file in the project root directory.
 ```
+### API Key Configuration
+Create a .env file in the project root directory.
 
 Open the .env file and add your OpenAI API key like this:
 
 ```makefile
 OPENAI_API_KEY=your-api-key-here
-Replace your-api-key-here with your actual OpenAI API key.
 ```
+Replace your-api-key-here with your actual OpenAI API key.
 
 ### Starting the Local Server
 Run the Flask application using the following command:
